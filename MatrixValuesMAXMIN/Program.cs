@@ -154,7 +154,7 @@ for (int i = 0; i < daysCount; i++)
                 isMax = false;
             }
         }
-    }
+    } 
 
     if (isMax)
     {
